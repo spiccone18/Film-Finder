@@ -1,4 +1,4 @@
-#Film Finder 
+Film Finder 
 
 Ever get caught up with your significant other on the couch at night blindly searching the internet for a movie to watch together? Takes a while, right? Not anymore with Film Finder! It's a simple SPA that will recommend random movies by genre, and you can like or dislike a movie to get another suggestion. Enjoy! 
 
