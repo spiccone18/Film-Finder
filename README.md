@@ -1,6 +1,6 @@
 # Film Finder 
 
-Ever get caught up with your significant other on the couch at night blindly searching the internet for a movie to watch together? Takes a while, right? Not anymore with Film Finder! It's a simple SPA that will recommend random movies by genre, and you can like or dislike a movie to get another suggestion. Enjoy! 
+Ever get caught up with your significant other on the couch at night blindly searching the internet for a movie to watch together? Takes a while, right? Not anymore with Film Finder! It's a static website that will recommend random movies by genre, and you can like or dislike a movie to get another suggestion. Enjoy! 
 
 ## APIs
 This app was created by calling the Movie Database API - https://www.themoviedb.org/. You will need to create an account and get your own API key for this SPA to work. 
